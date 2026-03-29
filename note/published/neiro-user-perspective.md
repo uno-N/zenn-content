@@ -1,7 +1,8 @@
 ---
-title: "「今日の自分」を音楽にする——ねぃろ(Neiro)でできること"
+title: "【30秒でわかるねぃろ】個人開発アプリ紹介"
 platform: note
-published: false
+published: true
+published_date: 2026-03-29
 tags: ["音楽療法", "個人開発", "アプリ開発", "セルフケア", "ねぃろ"]
 ---
 
