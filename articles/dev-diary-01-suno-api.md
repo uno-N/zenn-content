@@ -1,9 +1,9 @@
 ---
-title: "【開発日記：#1】利用規約を読まずにAPI検証した話"
+title: "【開発日記：#1】利用規約を読まずにAPI検証した話 -規約違反なんて一瞬-"
 emoji: "🎵"
 type: "tech"
 topics: ["claude", "sunoai", "api", "python", "個人開発"]
-published: false
+published: true
 ---
 
 みなさんこんにちは。

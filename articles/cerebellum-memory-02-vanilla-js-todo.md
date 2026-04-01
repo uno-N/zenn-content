@@ -3,16 +3,22 @@ title: "【小脳記憶 ser.2】バニラJSでTODOアプリを作りながら詰
 emoji: "📝"
 type: "tech"
 topics: ["javascript", "html", "dom", "初心者", "フロントエンド"]
-published: false
+published: true
 ---
 
 バニラJSでTODOアプリを作りながら、引っかかったポイントをQ&A形式でまとめました。
 「なんとなく動いてるけど理解できてない」を一個ずつ潰していった記録です。
 
 :::message
-この記事は [小脳記憶 ser.1](https://zenn.dev) の続きです。
+この記事は [小脳記憶 ser.1](https://zenn.dev/uno22/articles/cerebellum-memory-01-html-js-react) の続きです。
 HTMLとJavaScriptの基礎は ser.1 を参照してください。
 :::
+
+## 使った教材
+
+📺 [【React18対応】モダンJavaScriptの基礎から始める挫折しないためのReact入門（Udemy）](https://www.udemy.com/course/modern_javascipt_react_beginner/)
+
+このコースのバニラJS・TODOアプリ実装セクションで学習した内容をベースに、自分が引っかかったポイントをまとめています。
 
 ---
 
