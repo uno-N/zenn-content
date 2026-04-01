@@ -3,7 +3,7 @@ title: "【開発日記：#4】音楽創造アプリに組み込む音楽生成A
 emoji: "🎶"
 type: "tech"
 topics: ["python", "api", "音楽生成ai", "個人開発", "claudecode"]
-published: false
+published: true
 ---
 
 みなさんこんにちは。

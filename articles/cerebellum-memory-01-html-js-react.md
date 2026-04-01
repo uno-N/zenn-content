@@ -3,7 +3,7 @@ title: "【小脳記憶 ser.1】React環境構築を読めるようにする - H
 emoji: "🧠"
 type: "tech"
 topics: ["react", "javascript", "html", "初心者", "フロントエンド"]
-published: false
+published: true
 ---
 
 みなさんこんにちは。

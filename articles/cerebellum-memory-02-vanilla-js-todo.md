@@ -3,7 +3,7 @@ title: "【小脳記憶 ser.2】バニラJSでTODOアプリを作りながら詰
 emoji: "📝"
 type: "tech"
 topics: ["javascript", "html", "dom", "初心者", "フロントエンド"]
-published: false
+published: true
 ---
 
 バニラJSでTODOアプリを作りながら、引っかかったポイントをQ&A形式でまとめました。

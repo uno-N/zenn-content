@@ -4,7 +4,7 @@ topics: ["react", "個人開発", "音楽生成ai", "claudecode", "api"]
 published: true
 price: 0
 chapters:
-  - 1
-  - 2
-  - 3
-  - 4
+  - "1"
+  - "2"
+  - "3"
+  - "4"
