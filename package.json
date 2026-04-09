@@ -20,5 +20,8 @@
   "homepage": "https://github.com/uno-N/zenn-content#readme",
   "dependencies": {
     "zenn-cli": "^0.4.7"
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.8.0"
   }
 }
