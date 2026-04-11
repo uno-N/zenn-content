@@ -73,7 +73,7 @@ APIには大きく2種類の通信方式があります。
 - REST
 - WebSocket
 
-**REST（リクエスト→レスポンスで完結）**
+**⚪️REST（リクエスト→レスポンスで完結）**
 
 [アプリ開発日記 Vol.1](https://zenn.dev/uno22/articles/dev-diary-01-suno-api) でこんなことを書きました。
 
@@ -92,7 +92,7 @@ API ：「できました」（レスポンス）← ここで通信終了
 ```
 MurekaのAPIはREST。一回のリクエストで完結します。
 
-**WebSocket（接続を保ちながらデータが流れ続ける）**
+**⚪️WebSocket（接続を保ちながらデータが流れ続ける）**
 
 WebSocketの特徴は3つです。
 
